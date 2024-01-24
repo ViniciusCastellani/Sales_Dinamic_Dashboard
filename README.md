@@ -2,6 +2,10 @@
 
 This repository contains an Excel-based dynamic dashboard for tracking the sales of technology products by employees. The dashboard uses advanced features like pivot tables, tables, and slicers to provide a comprehensive view of sales data.
 
+## Dashboard
+
+![Captura de tela 2024-01-24 154906](https://github.com/ViniciusCastellani/Sales_Dinamic_Dashboard/assets/142606164/f76ab854-4dfa-422b-8bbb-57a32a83cf9e)
+
 ## Features
 
 * **Pivot Tables**: These are used to summarize, analyze, explore, and present large amounts of data. They allow us to group sales data by different criteria such as employee, product type, region, etc.
